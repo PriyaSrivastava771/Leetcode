@@ -21,5 +21,6 @@ class Solution {
 
         // All elements are zero
         return 0;
+        
     }
 }
