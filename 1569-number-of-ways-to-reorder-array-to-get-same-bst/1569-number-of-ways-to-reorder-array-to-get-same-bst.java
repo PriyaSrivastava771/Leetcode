@@ -36,6 +36,7 @@ class Solution {
                 left.add(nums[i]);
             } else {
                 right.add(nums[i]);
+                
             }
         }
 
