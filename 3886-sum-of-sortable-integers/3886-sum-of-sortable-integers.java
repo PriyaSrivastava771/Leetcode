@@ -50,7 +50,6 @@ class Solution {
         int drops = 0;
         for (int i = 0; i < k; i++) {
             int curr = nums[start + i];
-            // Wrap around within the bounds of this specific block
             int next = nums[start + (i + 1) % k];
             if (curr > next) {
                 drops++;
