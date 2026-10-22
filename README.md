@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0035-search-insert-position) |
 | [1386-cinema-seat-allocation](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/PriyaSrivastava771/Leetcode/tree/master/2029-stone-game-ix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0035-search-insert-position) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PriyaSrivastava771/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Memoization
