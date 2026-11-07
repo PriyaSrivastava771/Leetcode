@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0053-maximum-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/PriyaSrivastava771/Leetcode/tree/master/2029-stone-game-ix) |
@@ -109,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PriyaSrivastava771/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
