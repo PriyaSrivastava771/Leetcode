@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Depth-First Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PriyaSrivastava771/Leetcode/tree/master/0018-4sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PriyaSrivastava771/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3886-sum-of-sortable-integers](https://github.com/PriyaSrivastava771/Leetcode/tree/master/3886-sum-of-sortable-integers) |
